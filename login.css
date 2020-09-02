@@ -14,7 +14,7 @@ body {
 .child-div {
     width: 400px;
     height: 450px;
-    background-color: #fff;
+    background-color: whitesmoke;
     padding: 32px;
      display: flex;
      justify-content: space-around;
